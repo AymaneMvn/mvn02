@@ -68,6 +68,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mvn02/mvn02/output/snake.svg" alt="Snake animation" />
 
 ###
